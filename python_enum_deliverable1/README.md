@@ -69,6 +69,4 @@ The programs are written so that failing cases do **not** crash the whole progra
 - Duplicate values in `Enum` / `IntEnum` create **aliases** by default.
 - Python enums can hold methods and shared member attributes, but they are not as expressive as algebraic data types with per-instance payloads.
 
-## Group Project Note
 
-This code is organized so it can later be matched with a Java version using the same five-program structure.
